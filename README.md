@@ -19,11 +19,11 @@ The Primary source of Data used here is Data Sales.csv and this is an open sourc
 
 ### Data Cleaning and Preparations 
 In the initial phase of the Data Cleaning and Preparations, we perform the following actions;
-- Data loading and Inspection
-- Handling missing variables
-- Data Cleaning and Formatting
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formatting
 
-### Exploratory Dtat Analysis
+### Exploratory Data Analysis
 - What is the overall sales trend
 - Which product are top sellers
 - What are the products on peak sales?
