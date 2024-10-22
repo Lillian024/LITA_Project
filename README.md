@@ -27,4 +27,11 @@ In the initial phase of the Data Cleaning and Preparations, we perform the follo
 - What is the overall sales trend
 - Which product are top sellers
 - What are the products on peak sales?
-  
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX Expression used during your analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
