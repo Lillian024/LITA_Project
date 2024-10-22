@@ -40,3 +40,7 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+
+![Bar-chart-s-angle-company-text](https://github.com/user-attachments/assets/eedd31b5-9aee-4108-b285-ca53582b9e28)
