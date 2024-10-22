@@ -9,10 +9,22 @@ The Data Analysis project aims to generate insight into the sales performance of
 The Primary source of Data used here is Data Sales.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data respository site.
 
 ### Tools Used
-- Microsoft Excel 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
-  2. For Analysis
+  2. For Data Analysis
   3. For Data Visualization
      
 - SQL (Structured Query Language) for Querying of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations 
+In the initial phase of the Data Cleaning and Preparations, we perform the following actions;
+- Data loading and Inspection
+- Handling missing variables
+- Data Cleaning and Formatting
+
+### Exploratory Dtat Analysis
+- What is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales?
+  
